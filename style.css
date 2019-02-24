@@ -2,6 +2,7 @@ body {
   font-family: "Fira Sans Condensed", sans-serif;
   background: linear-gradient(90deg, #0055a4, #ef4135);
   color: #fff;
+  text-align: center;
 }
 .bigheading {
   text-align: center;
@@ -31,7 +32,7 @@ nav li {
   padding: 14px 16px;
   text-decoration: none;
 }
-nav li a:hover {
+a:hover {
   color: #c0c0c0;
 }
 .heading {
@@ -48,5 +49,8 @@ footer {
 }
   .articles-list ul {
     list-style-type: none;
-    color: #fff; 
 }
+.articles-list ul li a {
+  color: #fff;
+}
+
