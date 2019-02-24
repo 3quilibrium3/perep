@@ -1,0 +1,43 @@
+body {
+  font-family: "Fira Sans Condensed", sans-serif;
+  background: linear-gradient(90deg, #0055a4, #ef4135);
+  color: #fff;
+}
+.bigheading {
+  text-align: center;
+}
+nav {
+  text-align: center;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+nav li a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+}
+nav li {
+  float: center;
+  color: #fff;
+  display: inline;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+nav li a:hover {
+  color: #c0c0c0;
+}
+.heading {
+  background: url(montsaintmichel.jpg);
+  text-align: center;
+}
+.reverse {
+  font-weight: 600;
+}
