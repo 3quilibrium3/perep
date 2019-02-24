@@ -52,5 +52,6 @@ footer {
 }
 .articles-list ul li a {
   color: #fff;
+  text-decoration: none;
 }
 
