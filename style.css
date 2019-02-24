@@ -43,3 +43,9 @@ nav li a:hover {
 footer {
   text-align: center;
 }
+.articles-list {
+  list-style-type: none;
+  color: #fff;
+  text-align: center;
+}
+  
