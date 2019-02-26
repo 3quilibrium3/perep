@@ -49,7 +49,7 @@ footer {
 }
 .articles-list {
   text-align: center;
-    list-style: none;
+  list-style-type: decimal-leading-zero;
   margin:0;
   padding:0;
 }
