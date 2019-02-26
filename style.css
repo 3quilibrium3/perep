@@ -4,6 +4,9 @@ body {
   color: #fff;
   text-align: center;
 }
+a {
+  color: #fff;
+}
 .bigheading {
   text-align: center;
 }
@@ -51,7 +54,6 @@ footer {
   padding:0;
 }
 .articles-list li a {
-  color: #fff;
   text-decoration: none;
 }
 
