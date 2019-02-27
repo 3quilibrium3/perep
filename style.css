@@ -49,8 +49,6 @@ footer {
 }
 .articles-list {
   text-align: center;
-}
-.articles-list li {
   list-stype-type: lower-roman; }
 .articles-list li a {
   text-decoration: none;
