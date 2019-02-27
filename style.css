@@ -50,6 +50,9 @@ footer {
 .articles-list {
   text-align: center;
   list-stype-type: lower-roman; }
+.articles-list li {
+  display: list-item;
+}
 .articles-list li a {
   text-decoration: none;
 }
