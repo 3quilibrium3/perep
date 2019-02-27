@@ -49,9 +49,11 @@ footer {
 }
 .articles-list {
   text-align: center;
-  list-stype-type: lower-roman; }
+  list-stype-type: lower-roman;
+  display: inline-block;
+}
 .articles-list li {
-  display: list-item;
+  display: block;
   margin: 0;
   padding: 0;
 }
