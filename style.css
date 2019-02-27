@@ -52,6 +52,8 @@ footer {
   list-stype-type: lower-roman; }
 .articles-list li {
   display: list-item;
+  margin: 0;
+  padding: 0;
 }
 .articles-list li a {
   text-decoration: none;
