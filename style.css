@@ -48,8 +48,8 @@ footer {
   text-align: center;
 }
 .articles-list {
-  text-align: center;
-  list-style-type: lower-roman;
+  text-align: left;
+  list-style-type: upper-roman;
   display: inline-block;
 }
 .articles-list li a {
