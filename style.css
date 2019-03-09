@@ -60,4 +60,6 @@ footer {
 .articles-list li a {
   text-decoration: none;
 }
-
+.altheading {
+  font-size: 2em;
+}
