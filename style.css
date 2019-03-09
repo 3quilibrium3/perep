@@ -49,7 +49,7 @@ footer {
 }
 .articles-list {
   text-align: center;
-  list-stype: none;
+  list-style-type: lower-roman;
   display: inline-block;
 }
 .articles-list li {
